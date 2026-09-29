@@ -1,4 +1,3 @@
-# netflix-content-analytics
 # 🎬 Netflix Content Analytics Dashboard
 
 ## 📌 Project Overview
@@ -13,7 +12,7 @@ This project is an interactive analytics dashboard designed to visualize Netflix
 ![Netflix Dashboard](netflix.dashboard.png)
 
 ## 🎥 Dashboard Demonstration
-<video src="netflix.dashboard.recording.mp4" controls="controls" width="100%"></video>
+[👉 Click here to watch the interactive Dashboard Video Demonstration](netflix.dashboard.recording.mp4)
 
 ## 📊 Key Insights & Features
 *   **Content Distribution:** Visual breakdown of Movies vs. TV Shows across different years.
